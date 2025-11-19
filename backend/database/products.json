@@ -1,0 +1,86 @@
+[
+  {
+    "name": "iPhone 14",
+    "category": "Điện tử",
+    "price": 20000000,
+    "quantity": 5,
+    "description": "Điện thoại Apple mới"
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "category": "Điện tử",
+    "price": 18000000,
+    "quantity": 8,
+    "description": "Điện thoại Samsung mới"
+  },
+  {
+    "name": "Laptop Dell XPS 13",
+    "category": "Điện tử",
+    "price": 35000000,
+    "quantity": 3,
+    "description": "Laptop cao cấp"
+  },
+  {
+    "name": "Áo thun",
+    "category": "Quần áo",
+    "price": 200000,
+    "quantity": 10,
+    "description": "Áo cotton"
+  },
+  {
+    "name": "Quần jeans",
+    "category": "Quần áo",
+    "price": 400000,
+    "quantity": 6,
+    "description": "Quần jean nam"
+  },
+  {
+    "name": "Giày thể thao",
+    "category": "Quần áo",
+    "price": 1200000,
+    "quantity": 12,
+    "description": "Giày chạy bộ"
+  },
+  {
+    "name": "Táo Mỹ",
+    "category": "Đồ ăn",
+    "price": 50000,
+    "quantity": 50,
+    "description": "Táo nhập khẩu"
+  },
+  {
+    "name": "Bánh mì",
+    "category": "Đồ ăn",
+    "price": 15000,
+    "quantity": 30,
+    "description": "Bánh mì tươi"
+  },
+  {
+    "name": "Sữa tươi",
+    "category": "Đồ ăn",
+    "price": 25000,
+    "quantity": 20,
+    "description": "Sữa tươi nguyên chất"
+  },
+  {
+    "name": "Sách JS",
+    "category": "Sách",
+    "price": 150000,
+    "quantity": 20,
+    "description": "Học lập trình JS"
+  },
+  {
+    "name": "Sách Python",
+    "category": "Sách",
+    "price": 180000,
+    "quantity": 15,
+    "description": "Học lập trình Python"
+  },
+  {
+    "name": "Gối ngủ",
+    "category": "Khác",
+    "price": 120000,
+    "quantity": 25,
+    "description": "Gối mềm mại"
+  }
+]
